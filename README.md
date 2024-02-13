@@ -17,6 +17,10 @@ E-Commerce Web Application Using Laravel Framework, Ajax, Java Script, MYSQL (Da
 
 ![6](https://github.com/MrTineth/Laravel-E-Commerce-Web-Application/assets/106744622/366ddff9-3b72-408b-b45c-acbbaa43674a)
 
+![1](https://github.com/MrTineth/Laravel-E-Commerce-Web-Application/assets/106744622/3420e0a8-b803-4ac9-ab0f-5fbe827945d7)
+
+![2](https://github.com/MrTineth/Laravel-E-Commerce-Web-Application/assets/106744622/3aa4bb16-a005-4e90-ac8c-5b4e420664f6)
+
 ![7](https://github.com/MrTineth/Laravel-E-Commerce-Web-Application/assets/106744622/751c2fcb-cda2-46e2-b5cb-956d0a814237)
 
 ![10](https://github.com/MrTineth/Laravel-E-Commerce-Web-Application/assets/106744622/40abf1b3-1580-4a30-9743-9bf3dec193f9)
